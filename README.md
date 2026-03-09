@@ -1,4 +1,4 @@
 # ShumonX.github.io
 My GitHub Page.
 
-look: https://shumonx.github.io/
+link: https://ShumonX.github.io/
